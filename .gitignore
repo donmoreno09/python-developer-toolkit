@@ -1,0 +1,9 @@
+# Ambiente virtuale: si ricrea, non si versiona
+.venv/
+
+# Bytecode che Python genera automaticamente all'import
+__pycache__/
+*.pyc
+
+# File con segreti e configurazione locale (servirà più avanti)
+.env
